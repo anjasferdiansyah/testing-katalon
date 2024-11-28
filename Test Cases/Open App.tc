@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open App</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cf41884-ffb8-4e9b-9f4a-e4b307df0c55</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fbdf249-a4e1-45ac-9d4c-322adb6b54cf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://dev.premium.enigmacamp.com/'</defaultValue>
+      <description></description>
+      <id>3fbdf249-a4e1-45ac-9d4c-322adb6b54cf</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+</TestCaseEntity>
